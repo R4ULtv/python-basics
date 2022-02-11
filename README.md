@@ -10,9 +10,6 @@ Install [Python 3.6](https://www.python.org/downloads/)
 
 ## 🌟 How to run
 <!--Remove the below lines and add yours -->
-``` bash
-
-```
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
