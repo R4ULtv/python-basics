@@ -8,9 +8,9 @@ All the basics to know about python
 <!--Remove the below lines and add yours -->
 Install [Python 3.6](https://www.python.org/downloads/)
 
-## 🌟 How to run
+## 🌟 All Files in Order
 <!--Remove the below lines and add yours -->
-
+1. [Variables](/variables.py)
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
