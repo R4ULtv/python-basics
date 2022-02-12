@@ -11,6 +11,7 @@ Install [Python 3.6](https://www.python.org/downloads/)
 ## 🌟 All Files in Order
 <!--Remove the below lines and add yours -->
 1. [Variables](/variables.py)
+1. [Operators](/operators.py)
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
