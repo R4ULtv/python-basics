@@ -13,6 +13,8 @@ Install [Python 3.6](https://www.python.org/downloads/)
 1. [Variables](/variables.py)
 2. [Operators](/operators.py)
 3. [Conditions](/conditions.py)
+4. [Logical Operators](/logical_operators.py)
+
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
