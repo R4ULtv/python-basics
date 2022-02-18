@@ -16,6 +16,7 @@ Install [Python 3.6](https://www.python.org/downloads/)
 4. [Logical Operators](/logical_operators.py)
 5. [Loops](/loops.py)
 6. [Data Types](/data-types.py)
+7. [Iteraction by Item](/iter-item.py)
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
