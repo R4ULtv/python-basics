@@ -17,6 +17,7 @@ Install [Python 3.6](https://www.python.org/downloads/)
 5. [Loops](/loops.py)
 6. [Data Types](/data-types.py)
 7. [Iteraction by Item](/iter-item.py)
+8. [Strings Methods](/strings.py)
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
