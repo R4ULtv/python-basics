@@ -15,6 +15,8 @@ Install [Python 3.6](https://www.python.org/downloads/)
 3. [Conditions](/conditions.py)
 4. [Logical Operators](/logical_operators.py)
 5. [Loops](/loops.py)
+6. [Data Types](/data-types.py)
+
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
 <a href="https://www.raulcarini.com">
