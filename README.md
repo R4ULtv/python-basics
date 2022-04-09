@@ -19,6 +19,7 @@ Install [Python 3.6](https://www.python.org/downloads/)
 7. [Iteraction by Item](/iter-item.py)
 8. [Strings Methods](/strings.py)
 9. [Functions](/functions.py)
+10. [Files](files.py)
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
