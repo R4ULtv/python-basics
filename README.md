@@ -20,6 +20,7 @@ Install [Python 3.6](https://www.python.org/downloads/)
 8. [Strings Methods](/strings.py)
 9. [Functions](/functions.py)
 10. [Files](files.py)
+11. [Try and Except](try_except.py)
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
